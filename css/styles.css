@@ -1,0 +1,109 @@
+body{
+  font-family: "Montserrat";
+
+}
+h1{
+  font-weight: bolder;
+  font-family: "Lobster";
+  font-size: 4.0rem;
+}
+
+#uppercon{
+background-color: #00a8cc;
+color: white;
+}
+
+.container-fluid{
+padding: 3% 10%;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navlink{
+  font-family: "Montserrat", light;
+  color: #d7d1c9;
+  /* text-decoration: none; */
+  font-size: 1.2rem;
+  padding: 0 25px;
+}
+.navlink:hover{
+  text-decoration: none;
+  color: white;
+}
+.secondcon{
+background-color: #f1fcfc;
+}
+.contenttwo{
+  /* z-index: -1; */
+}
+.iphone6{
+  width: 50%;
+  transform: rotate(25deg);
+  margin: 40px 40px;
+}
+.btn{
+  margin:40px 10px 0 10px;
+}
+.thirdcon{
+  background-color: #81f5ff;
+}
+.thirdcondiv{
+  text-align: center;
+  padding: 30px 15px;
+}
+.icon{
+  margin-bottom: 20px;
+  color: #27496d;
+}
+.forthcon{
+text-align: center;
+padding: 30px 20px;
+background-color: #f1fcfc;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E")
+}
+.carousel-control-next-icon {
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+}
+.fifthdiv{
+  padding: 15px 5px;
+  background-color: #d7fffd;
+
+}
+.fifdivimg{
+  margin: 15px 0;
+}
+.fifthrow{
+  margin-left: 0;
+  margin-right: 0;
+}
+.sixthsec{
+  padding: 20px 15px;
+  text-align: center;
+  background-color: #f1fcfc;
+}
+#sixthheading{
+  font-weight: bold;
+}
+.card{
+  text-align: center;
+  margin-top: 20px;
+}
+.seventhsec{
+  text-align: center;
+  padding: 25px 0;
+  background-color: #81f5ff;
+}
+#seventhheading{
+  font-family: "Lobster";
+  font-size: 2.5rem;
+}
+#footer{
+  margin-top: 40px;
+}
